@@ -1,2 +1,2 @@
-# WebViewJavaScriptBridge_android
-WebViewJavaScriptBridge_android
+# JavaWebViewJavaScriptBridge
+JavaWebViewJavaScriptBridge
